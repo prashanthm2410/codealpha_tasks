@@ -1,5 +1,4 @@
 
-```markdown
 # Network-Based Intrusion Detection System (NIDS) Setup
 
 ## Overview
