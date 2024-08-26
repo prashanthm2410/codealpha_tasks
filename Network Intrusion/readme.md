@@ -200,4 +200,3 @@ Implement scripts or tools to automate responses to alerts, such as blocking IP 
 - **Update Rules Regularly:** Keep your intrusion detection rules up-to-date.
 - **Monitor Performance:** Regularly check the performance and adjust configurations as needed.
 
-## Conclusion
